@@ -111,3 +111,7 @@ The project is released under the [MIT license](http://www.opensource.org/licens
 ## Contact
 The project's website is located at https://github.com/emn178/jquery-animations-tile  
 Author: emn178@gmail.com
+
+## Contact ##
+http://tipsandtips.xsrv.jp/suits-tile-animation/sample/tile/
+Author: yukikohama@gmail.com
